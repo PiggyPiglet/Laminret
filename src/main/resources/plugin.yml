@@ -1,0 +1,6 @@
+name: Laminret
+version: ${project.version}
+main: me.piggypiglet.laminret.Laminret
+authors: [PiggyPiglet, AndrewAubury]
+description: Use terminal games from minecraft
+website: https://p1g.pw/laminret
